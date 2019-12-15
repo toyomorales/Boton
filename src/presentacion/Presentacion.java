@@ -73,6 +73,8 @@ public class Presentacion extends javax.swing.JFrame {
         
         //No hace falta
         
+        // ya ingresamos
+        
         
     }//GEN-LAST:event_jButton1ActionPerformed
 
