@@ -70,6 +70,10 @@ public class Presentacion extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         jLabel1.setText("hola  como estás");
+        
+        //No hace falta
+        
+        
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
